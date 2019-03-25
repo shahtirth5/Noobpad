@@ -1,0 +1,39 @@
+.menu-bar {
+	-fx-background-color :#34495e;
+	-fx-font-family: Papyrus,fantasy;
+}
+
+.menu-bar .label{
+	-fx-text-fill:#ecf0f1;
+-fx-font-family: Papyrus,fantasy;
+}
+
+.menu-item:hover {
+  -fx-border-color:#ffffff;
+  -fx-border-top: 4px solid #ffffff;
+  -fx-border-bottom: 4px solid #ffffff;
+  -fx-padding: 6px 0; 
+}
+
+
+.menu-item{
+	-fx-background-color :#34495e;	
+}
+
+.menu-item .label{
+	-fx-text-fill:#ecf0f1;
+	 -fx-font-family: Papyrus,fantasy;
+}
+
+.text-area .content{
+	-fx-background-color:#CFD8DC;
+
+}
+
+.text-area{
+		-fx-text-fill:#000000;
+}
+
+.text-field {
+	-fx-background-color:#CFD8DC;
+}
